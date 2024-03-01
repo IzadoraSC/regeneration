@@ -5,26 +5,26 @@ https://ivfl-info.boku.ac.at/results
 2000 - ok
 2001 - ok
 2002 - ok
-2003
-2004
-2005
-2006
-2007
-2008
-2009
+2003 - ok
+2004 - ok
+2005 - ok
+2006 - ok
+2007 - ok
+2008 - ok
+2009 - ok
 2010 - ok
-2011 - 
+2011 - ok
 2012 - ok
-2013
-2014
-2015
-2016
-2017
-2018
-2019
-2020
-2021
-2022
+2013 - ok
+2014 - ok
+2015 - ok
+2016 - ok
+2017 - ok
+2018 - ok
+2019 - ok
+2020 - ok
+2021 - ok
+2022 - ok
 
 ## Programa para baixar os dados após finalizar o processamento no site
 https://filezilla-project.org/
